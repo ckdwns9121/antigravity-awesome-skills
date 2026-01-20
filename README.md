@@ -41,9 +41,9 @@ This repository provides essential skills to transform your AI assistant into a 
 **First time using this repository?** We've created beginner-friendly guides to help you get started:
 
 - **[GETTING_STARTED.md](GETTING_STARTED.md)** - Complete beginner's guide (5-minute read)
-- **[CONTRIBUTING_GUIDE.md](CONTRIBUTING_GUIDE.md)** - How to contribute (step-by-step)
+- **[CONTRIBUTING.md](CONTRIBUTING.md)** - How to contribute (step-by-step)
 - **[SKILL_ANATOMY.md](docs/SKILL_ANATOMY.md)** - Understanding how skills work
-- **[QUICK_START_VISUAL.md](docs/QUICK_START_VISUAL.md)** - Visual guide with diagrams
+- **[VISUAL_GUIDE.md](docs/VISUAL_GUIDE.md)** - Visual guide with diagrams
 
 **Quick Start:**
 ```bash

@@ -215,7 +215,7 @@ What skills are available for [topic]?
 - Add examples to existing skills
 - Report issues or confusing parts
 
-Check out [CONTRIBUTING_GUIDE.md](CONTRIBUTING_GUIDE.md) for step-by-step instructions.
+Check out [CONTRIBUTING.md](CONTRIBUTING.md) for step-by-step instructions.
 
 ---
 
@@ -240,7 +240,7 @@ Check out [CONTRIBUTING_GUIDE.md](CONTRIBUTING_GUIDE.md) for step-by-step instru
 4. Run validation: `python3 scripts/validate_skills.py`
 5. Submit a Pull Request
 
-**Detailed version:** See [CONTRIBUTING_GUIDE.md](CONTRIBUTING_GUIDE.md)
+**Detailed version:** See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
 

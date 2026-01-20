@@ -32,7 +32,7 @@ antigravity-awesome-skills/
 │
 ├── 📄 README.md                    ← Overview & skill list
 ├── 📄 GETTING_STARTED.md           ← Start here! (NEW)
-├── 📄 CONTRIBUTING_GUIDE.md        ← How to contribute (NEW)
+├── 📄 CONTRIBUTING.md        ← How to contribute (NEW)
 │
 ├── 📁 skills/                      ← All 179 skills live here
 │   │
@@ -56,7 +56,7 @@ antigravity-awesome-skills/
 │
 └── 📁 docs/                        ← Documentation (NEW)
     ├── 📄 SKILL_ANATOMY.md         ← How skills work
-    └── 📄 QUICK_START_VISUAL.md    ← This file!
+    └── 📄 VISUAL_GUIDE.md    ← This file!
 ```
 
 ---
@@ -302,7 +302,7 @@ Open skills_index.json → Search for keyword → Find skill path
        ↓
 ┌──────────────┐
 │ 3. WRITE     │  Add frontmatter + content
-└──────┬───────┘  (Use template from CONTRIBUTING_GUIDE.md)
+└──────┬───────┘  (Use template from CONTRIBUTING.md)
        │
        ↓
 ┌──────────────┐
@@ -450,7 +450,7 @@ START HERE
 │                                                             │
 │  🆘 HELP                                                    │
 │  • GETTING_STARTED.md - Basics                              │
-│  • CONTRIBUTING_GUIDE.md - How to contribute                │
+│  • CONTRIBUTING.md - How to contribute                │
 │  • SKILL_ANATOMY.md - Deep dive                             │
 │  • GitHub Issues - Ask questions                            │
 │                                                             │
@@ -490,7 +490,7 @@ Month 1: Regular contributor
 1. ✅ **Understand** the visual structure
 2. ✅ **Install** skills in your AI tool
 3. ✅ **Try** 2-3 skills from different categories
-4. ✅ **Read** CONTRIBUTING_GUIDE.md
+4. ✅ **Read** CONTRIBUTING.md
 5. ✅ **Create** your first skill
 6. ✅ **Share** with the community
 
@@ -499,6 +499,6 @@ Month 1: Regular contributor
 **Visual learner?** This guide should help! Still have questions? Check out:
 - [GETTING_STARTED.md](../GETTING_STARTED.md) - Text-based intro
 - [SKILL_ANATOMY.md](SKILL_ANATOMY.md) - Detailed breakdown
-- [CONTRIBUTING_GUIDE.md](../CONTRIBUTING_GUIDE.md) - How to contribute
+- [CONTRIBUTING.md](../CONTRIBUTING.md) - How to contribute
 
 **Ready to contribute?** You've got this! 💪

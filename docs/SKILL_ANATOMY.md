@@ -535,7 +535,7 @@ Keep skills updated with current best practices
 ## 🎯 Next Steps
 
 1. **Read 3-5 existing skills** to see different styles
-2. **Try the skill template** from CONTRIBUTING_GUIDE.md
+2. **Try the skill template** from CONTRIBUTING.md
 3. **Create a simple skill** for something you know well
 4. **Test it** with your AI assistant
 5. **Share it** via Pull Request

@@ -152,7 +152,7 @@ Great! Here's how:
 - Fix typos or confusing parts
 
 ### Option 2: Create a New Skill
-See our [CONTRIBUTING_GUIDE.md](CONTRIBUTING_GUIDE.md) for step-by-step instructions
+See our [CONTRIBUTING.md](CONTRIBUTING.md) for step-by-step instructions
 
 ### Option 3: Report Issues
 Found something confusing? [Open an issue](https://github.com/sickn33/antigravity-awesome-skills/issues)
@@ -165,7 +165,7 @@ Found something confusing? [Open an issue](https://github.com/sickn33/antigravit
 **A:** No! Clone the whole repo, and your AI will only load skills when you use them.
 
 ### Q: Can I create my own skills?
-**A:** Yes! Check out the `@skill-creator` skill or read [CONTRIBUTING_GUIDE.md](CONTRIBUTING_GUIDE.md)
+**A:** Yes! Check out the `@skill-creator` skill or read [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ### Q: What if my AI tool isn't listed?
 **A:** If it supports the `SKILL.md` format, try `.agent/skills/` - it's the universal path.
@@ -182,7 +182,7 @@ Found something confusing? [Open an issue](https://github.com/sickn33/antigravit
 
 1. ✅ Install the skills in your AI tool
 2. ✅ Try 2-3 skills from different categories
-3. ✅ Read [CONTRIBUTING_GUIDE.md](CONTRIBUTING_GUIDE.md) if you want to help
+3. ✅ Read [CONTRIBUTING.md](CONTRIBUTING.md) if you want to help
 4. ✅ Star the repo if you find it useful! ⭐
 
 ---
